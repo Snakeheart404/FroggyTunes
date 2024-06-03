@@ -1,0 +1,8 @@
+Flask
+librosa
+numpy
+av
+scikit-learn
+tinytag
+waitress
+
